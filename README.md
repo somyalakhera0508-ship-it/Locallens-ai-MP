@@ -1,2 +1,2 @@
-# Ai-synergy-hackathon
-AI Synergy Hackathon 2026 — Project documentation and technical feasibility
+# locallens-ai-mp
+An AI-assisted responsible local experience discovery concept for Madhya Pradesh.
